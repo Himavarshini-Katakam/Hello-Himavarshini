@@ -3,3 +3,9 @@ Apps used for Maintaining Code
 1--GitHub
 2--BitBucket
 3--Hello
+
+
+Languages used for Developing Applications
+1--Python
+2--Java
+3--JavaScript
